@@ -1,0 +1,46 @@
+* {
+  font-family: garamond;
+}
+#lewy {
+  background-color: #00600f;
+  color: white;
+  text-align: center;
+  width: 75%;
+  height: 90px;
+}
+#prawy {
+  background-color: #00600f;
+  color: white;
+  width: 25%;
+  height: 90px;
+}
+main {
+  background-color: #c8e6c9;
+  height: 600px;
+  overflow: scroll;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+footer {
+  background-color: #00600f;
+  color: white;
+}
+h5 {
+  background-color: #00600f;
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  margin: 0px;
+}
+h2 {
+  text-align: right;
+}
+.owocki {
+  margin: 10px;
+  border: solid #00600f 1px;
+  width: 300px;
+}
+header {
+  display: flex;
+}
